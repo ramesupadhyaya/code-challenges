@@ -5,7 +5,9 @@
 */
 
 const factorial = n => {
+  // if n is 0 return 1
   if (n === 0) return 1;
+  // call the factorial function recursively
   return n * factorial(n - 1);
 };
 
