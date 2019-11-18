@@ -1,0 +1,26 @@
+{
+  "name": "code-challenges",
+  "version": "1.0.0",
+  "description": "Various code challenges and their solution in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramesupadhyaya/code-challenges.git"
+  },
+  "author": "ramesh upadhyaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramesupadhyaya/code-challenges/issues"
+  },
+  "homepage": "https://github.com/ramesupadhyaya/code-challenges#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.1"
+  }
+}
